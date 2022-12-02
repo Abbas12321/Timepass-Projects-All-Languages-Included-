@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: #1c1e26;
+    display: grid;
+    place-content: center;
+    overflow: hidden;
+    height: 100vh;
+}
+
+h1{
+    font-size: 3rem;
+    background: #233136;
+}
+
+.cursor{
+    width: 5rem;
+    height: 5rem;
+    background: #9b4040;
+    border-radius: 50%;
+    position: absolute;
+    mix-blend-mode: difference;
+}
