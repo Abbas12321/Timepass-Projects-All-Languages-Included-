@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\practise\emailloginform\emailloginform\bin\Debug\emailloginform.exe.config
+C:\Users\admin\Desktop\practise\emailloginform\emailloginform\bin\Debug\emailloginform.exe
+C:\Users\admin\Desktop\practise\emailloginform\emailloginform\bin\Debug\emailloginform.pdb
+C:\Users\admin\Desktop\practise\emailloginform\emailloginform\obj\Debug\emailloginform.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\practise\emailloginform\emailloginform\obj\Debug\emailloginform.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\practise\emailloginform\emailloginform\obj\Debug\emailloginform.Properties.Resources.resources
+C:\Users\admin\Desktop\practise\emailloginform\emailloginform\obj\Debug\emailloginform.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\practise\emailloginform\emailloginform\obj\Debug\emailloginform.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\practise\emailloginform\emailloginform\obj\Debug\emailloginform.exe
+C:\Users\admin\Desktop\practise\emailloginform\emailloginform\obj\Debug\emailloginform.pdb
+C:\Users\admin\Desktop\practise\emailloginform\emailloginform\obj\Debug\emailloginform.Form1.resources
